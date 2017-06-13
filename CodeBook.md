@@ -1,9 +1,9 @@
-#Code Book
+# Code Book
 This codebook summarizes the resulting data fields in tidydata.txt.
-##Identifiers
+## Identifiers
 * Subject_Id - The ID of the test subject
 * Activity - The type of activity performed when the corresponding measurements were taken
-##Measurements
+## Measurements
 * TimeDomain_BodyAcceleration_Mean_X
 * TimeDomain_BodyAcceleration_Mean_Y
 * TimeDomain_BodyAcceleration_Mean_Z
@@ -70,7 +70,7 @@ This codebook summarizes the resulting data fields in tidydata.txt.
 * FrequencyDomain_BodyBodyGyroMagnitude_StandardDeviation
 * FrequencyDomain_BodyBodyAngularVelocityMagnitude_Mean
 * FrequencyDomain_BodyBodyAngularVelocityMagnitude_StandardDeviation
-##Activity Values
+## Activity Values
 * WALKING 
 * WALKING_UPSTAIRS
 * WALKING_DOWNSTAIRS
