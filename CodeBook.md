@@ -4,6 +4,8 @@ This codebook summarizes the resulting data fields in tidydata.txt.
 * Subject_Id - The ID of the test subject
 * Activity - The type of activity performed when the corresponding measurements were taken
 ## Measurements
+The below variables contain the mean measurements for each subject by activity.  Each subject has one row per activity.  Means were taken on the normalized features from the original data and therefore are bounded between (-1,1).
+
 * TimeDomain_BodyAcceleration_Mean_X
 * TimeDomain_BodyAcceleration_Mean_Y
 * TimeDomain_BodyAcceleration_Mean_Z
