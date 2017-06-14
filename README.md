@@ -18,4 +18,4 @@ The purpose of this project is to demonstrate your ability to collect, work with
 14. Write out tidy data set in text format to working directory.
 
 # Steps Necessary to Run Code
-1.  Uncomment working directory line at beginning of run_analysis.R code and set working directory to desired location on your drives.
+1.  Uncomment working directory line at line 4 of run_analysis.R code and set working directory to desired location on your drives.
