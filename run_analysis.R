@@ -1,7 +1,7 @@
 library(dplyr)
 
 #Set working directory for files
-setwd("C:/Coursera")
+#setwd("C:/Coursera")
 
 # Create directory for the UCI data 
 if (!file.exists("./data")) {dir.create("./data")} 
